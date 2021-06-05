@@ -1,2 +1,2 @@
-# pbs117-someFun
-A demo GitHub Repo for instalment 117 of the Programming by Stealth series created via the web interface
+# pbs117-someFun: This is some fun!
+A demo [GitHub](https://github.com) Repo for [instalment 117](https://pbs.bartificer.net/pbs117) of the [Programming by Stealth](https://pbs.bartificer.net/) blog/podcast series created via the GitHub web interface.
